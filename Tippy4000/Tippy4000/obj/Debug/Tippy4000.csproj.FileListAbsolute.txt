@@ -1,0 +1,7 @@
+C:\workspace\itp\Tippy4000\Tippy4000\bin\Debug\Tippy4000.exe.config
+C:\workspace\itp\Tippy4000\Tippy4000\bin\Debug\Tippy4000.exe
+C:\workspace\itp\Tippy4000\Tippy4000\bin\Debug\Tippy4000.pdb
+C:\workspace\itp\Tippy4000\Tippy4000\obj\Debug\Tippy4000.csprojAssemblyReference.cache
+C:\workspace\itp\Tippy4000\Tippy4000\obj\Debug\Tippy4000.csproj.CoreCompileInputs.cache
+C:\workspace\itp\Tippy4000\Tippy4000\obj\Debug\Tippy4000.exe
+C:\workspace\itp\Tippy4000\Tippy4000\obj\Debug\Tippy4000.pdb
